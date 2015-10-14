@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Seeing small chunks of code which had the differences requires much less time and
+effort compared to trying to see the changes in the entire code.
